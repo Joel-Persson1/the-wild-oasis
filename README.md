@@ -88,7 +88,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/CodeWithAlamin/The-Wild-Oasis.git
+   git clone https://github.com/Joel-Persson1/the-wild-oasis.git
    ```
 
 2. **Install dependencies**

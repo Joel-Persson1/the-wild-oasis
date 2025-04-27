@@ -7,7 +7,7 @@ Built with **React**, **Supabase**, and a range of modern tools, this applicatio
 
 ## ✨ Live Demo
 
-👉 [Coming soon!]()
+👉 [Coming soon!](https://the-wild-oasis-bqn2.vercel.app/)
 
 ---
 

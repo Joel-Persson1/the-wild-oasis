@@ -106,7 +106,7 @@ Follow these steps to set up the project locally:
 
 ## 🙏 Special Thanks
 
-This project was developed as part of the <a href="https://codingheroes.io/" target="_blank">Jonas Schmedtmann</a> Udemy course.  
+This project was developed as part of the [Jonas Schmedtmann](https://codingheroes.io/) Udemy course.  
 Special thanks to Jonas for his excellent teaching and for providing deep, practical insights into building fullstack React applications!
 
 ---
